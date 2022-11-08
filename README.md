@@ -1,2 +1,4 @@
-# Ola_mundo
- Primeiro_repositorio_versionado_win 10
+# Olá, Mundo
+Primeiro repositório do curso de Git e GitHub
+
+Repositorio criado durante uma aula ao vivo!
